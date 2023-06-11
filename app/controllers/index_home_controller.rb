@@ -1,0 +1,2 @@
+class IndexHomeController < ApplicationController
+end
